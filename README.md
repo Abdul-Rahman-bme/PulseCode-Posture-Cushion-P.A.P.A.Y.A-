@@ -3,8 +3,6 @@
 > **Posture Analysis and Proactive Alignment for Your Awareness**  
 > A smart cushion that detects poor sitting posture in real-time and provides subtle haptic feedback to encourage healthy sitting habits.
 
-![Award Badge](brainstorm_award.jpg)
-
 📍 **2nd Runners Up – Brainstorm 2025**  
 🏫 **University of Moratuwa – BM1190 Engineering Design Project**
 
@@ -30,17 +28,17 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ## 📷 Images & Prototype
 | Prototype | Inside View | PCB Layout |
 |-----------|-------------|------------|
-| ![Prototype](images/prototype_front.jpg) | ![Inside](images/cushion_inside.jpg) | ![PCB Layout 1](images/pcb_layout1.jpg) ![PCB Layout 2](images/pcb_layout2.jpg) |
+| ![Prototype](prototype_front.jpg) | ![Inside](cushion_inside.jpg) | ![PCB Layout 1](pcb_layout1.jpg) ![PCB Layout 2](pcb_layout2.jpg) |
 
 ---
 
 ## 🖥 System Architecture
-![System Block Diagram](images/system_block_diagram.png.jpg)
+![System Block Diagram](system_block_diagram.png.jpg)
 
 ---
 
 ## 📐 Enclosure Designs
-![SolidWorks Enclosure](images/enclosure_design.jpg)
+![SolidWorks Enclosure](enclosure_design.jpg)
 
 ---
 
@@ -58,9 +56,9 @@ It combines **pressure sensors**, **distance sensing**, and **vibration feedback
 ---
 
 ## 📑 Documentation
-- [📄 Final Report](docs/Report_PAPAYA.pdf)  
-- [📊 Final Presentation](docs/Prometheus_Final_Presentation.pdf)  
-- [🎯 Project Pitch Deck](docs/Prometheus_Project_Pitch.pdf)  
+- [📄 Final Report](Final_Report_PAPAYA.pdf)  
+- [📊 Final Presentation](Final_Presentation.pdf)  
+- [🎯 Project Pitch Deck](PAPAYA_Project_Pitch.pdf)  
 
 ---
 
