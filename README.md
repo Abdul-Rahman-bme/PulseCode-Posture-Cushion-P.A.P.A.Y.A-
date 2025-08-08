@@ -3,7 +3,7 @@
 > **Posture Analysis and Proactive Alignment for Your Awareness**  
 > A smart cushion that detects poor sitting posture in real-time and provides subtle haptic feedback to encourage healthy sitting habits.
 
-![Award Badge](images/brainstorm_award.jpg)
+![Award Badge](brainstorm_award.jpg)
 
 📍 **2nd Runners Up – Brainstorm 2025**  
 🏫 **University of Moratuwa – BM1190 Engineering Design Project**
